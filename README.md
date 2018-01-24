@@ -8,7 +8,7 @@ Hello!
 
 All the code is from the Go Series: [Go Language for Beginners in 16 Parts](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts)!
 
-- [1 - Golang characteristics and Go Syntax](https://blog.hackingcode.io/go-language-tutorial-go-characteristics-and-go-syntax-tutorial)
+- 1 - [Golang characteristics and Go Syntax](https://blog.hackingcode.io/go-language-tutorial-go-characteristics-and-go-syntax-tutorial)
 - 2 - [Declaring Variables in Go](https://blog.hackingcode.io/go-language-tutorial-declaring-variables-in-go)
 - 3 - [Functions in Go](https://blog.hackingcode.io/go-language-tutorial-go-functions)
 - 4 - [Error Handling in Go](https://blog.hackingcode.io/go-language-tutorial-go-error-handling-in-go)
