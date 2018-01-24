@@ -1,5 +1,12 @@
-# golang-guide-tutorials
+# Golang Guide and Tutorials
+
 Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot of Golang code :tada:
+
+## Go Language for Beginners in 16 Parts
+
+Hello!
+
+All the code is from the Go Series: [Go Language for Beginners in 16 Parts](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts)!
 
 - [1 - Golang characteristics and Go Syntax](https://blog.hackingcode.io/go-language-tutorial-go-characteristics-and-go-syntax-tutorial)
 - 2 - [Declaring Variables in Go](https://blog.hackingcode.io/go-language-tutorial-declaring-variables-in-go)
@@ -17,3 +24,5 @@ Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot o
 - 14 - [Interfaces in Go](https://blog.hackingcode.io/go-language-tutorial-interfaces-in-go)
 - 15 - [Concurrency with Goroutines in Go](https://blog.hackingcode.io/go-language-tutorial-concurrency-goroutines-in-go)
 - 16 - [Concurrency with Goroutines and Channel in Go](https://blog.hackingcode.io/go-language-tutorial-concurrency-goroutine-channel-in-go)
+
+I hope it could be useful to you :)
