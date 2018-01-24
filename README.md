@@ -1,5 +1,7 @@
 # Golang Guide and Tutorials
 
+![](https://blog.hackingcode.io/wp-content/uploads/2018/01/go-language-tutorials-hacking-code.png)
+
 Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot of Golang code :tada:
 
 ## Go Language for Beginners in 16 Parts
