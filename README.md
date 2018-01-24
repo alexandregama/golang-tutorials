@@ -6,7 +6,7 @@ Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot o
 
 Hello!
 
-All the code is from the Go Series: [Go Language for Beginners in 16 Parts](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts)!
+All the code is from the Go Series: [Go Language for Beginners in 16 Parts](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts) from [Hacking Code](https://blog.hackingcode.io/) site!
 
 - 1 - [Golang characteristics and Go Syntax](https://blog.hackingcode.io/go-language-tutorial-go-characteristics-and-go-syntax-tutorial)
 - 2 - [Declaring Variables in Go](https://blog.hackingcode.io/go-language-tutorial-declaring-variables-in-go)
