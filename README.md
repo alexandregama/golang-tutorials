@@ -28,3 +28,11 @@ All the code is from the Go Series: [Go Language for Beginners in 16 Parts](http
 - 16 - [Concurrency with Goroutines and Channel in Go](https://blog.hackingcode.io/go-language-tutorial-concurrency-goroutine-channel-in-go)
 
 I hope it could be useful to you :)
+
+
+# Keep Social :) 
+
+- [Twitter](https://twitter.com/hacking_code)
+- [GitHub](https://github.com/hacking-code)
+- [Instagram](https://www.instagram.com/hacking_code)
+- [Facebook](https://www.facebook.com/hacking.code.academy)
