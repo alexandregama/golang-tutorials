@@ -36,3 +36,14 @@ I hope it could be useful to you :)
 - [GitHub](https://github.com/hacking-code)
 - [Instagram](https://www.instagram.com/hacking_code)
 - [Facebook](https://www.facebook.com/hacking.code.academy)
+
+# About the Author - Alexandre Gama
+
+Let's keep in touch :  )
+
+- [Twitter](https://twitter.com/alexandregamma)
+- [GitHub](https://github.com/alexandregama)
+- [Linkedin](https://www.linkedin.com/in/alexandregama/)
+- [Instagram](https://www.instagram.com/alexandregama/)
+- [Google+](https://plus.google.com/+AlexandreGamaLima)
+- [About.me](https://about.me/alexandregama)
