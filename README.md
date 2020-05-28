@@ -30,20 +30,10 @@ All the code is from the Go Series: [Go Language for Beginners in 16 Parts](http
 I hope it could be useful to you :)
 
 
-# Keep Social :) 
-
-- [Twitter](https://twitter.com/hacking_code)
-- [GitHub](https://github.com/hacking-code)
-- [Instagram](https://www.instagram.com/hacking_code)
-- [Facebook](https://www.facebook.com/hacking.code.academy)
-
-# About the Author - Alexandre Gama
-
 Let's keep in touch :  )
 
-- [Twitter](https://twitter.com/alexandregamma)
+- [Twitter](https://twitter.com/_alex_gama)
 - [GitHub](https://github.com/alexandregama)
 - [Linkedin](https://www.linkedin.com/in/alexandregama/)
-- [Instagram](https://www.instagram.com/alexandregama/)
-- [Google+](https://plus.google.com/+AlexandreGamaLima)
-- [About.me](https://about.me/alexandregama)
+- [Instagram](https://www.instagram.com/_alex_gama)
+- [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw)
